@@ -1,0 +1,16 @@
+Order ID,Customer,Order Time,Priority,Deadline,SKU,Product,Variant,Quantity,Status,Courier,Stock Status,Issue
+ORD001,Aarav Mehta,2026-10-09 08:10,Priority,2026-10-10 10:30,SKU101,Wireless Mouse,Black,1,Picking,Delhivery,Available,None
+ORD002,Ananya Shah,2026-10-09 08:25,Normal,2026-11-02 18:00,SKU102,Mechanical Keyboard,Blue,1,Packed,BlueDart,Available,None
+ORD003,Rohan Patil,2026-10-09 08:40,Priority,2026-10-16 17:00,SKU103,Laptop Stand,Silver,1,Ready for Pickup,Delhivery,Available,None
+ORD004,Neha Joshi,2026-10-09 09:05,Normal,2026-10-19 18:00,SKU104,USB-C Hub,7-in-1,2,Picking,Ekart,Available,None
+ORD005,Aditya Rao,2026-10-09 09:20,Priority,2026-10-22 11:00,SKU105,Wireless Headphones,Black,1,Waiting for Stock,BlueDart,Transfer Required,Stock transfer
+ORD006,Priya Nair,2026-10-09 09:45,Normal,2026-10-29 22:00,SKU106,Webcam,1080p,1,Packed,Delhivery,Available,None
+ORD007,Kunal Desai,2026-10-09 10:10,Priority,2026-10-30 18:00,SKU107,Portable SSD,1TB,1,Picking,Ekart,Available,None
+ORD008,Sneha Kulkarni,2026-10-09 10:30,Normal,2026-10-12 12:00,SKU108,Desk Lamp,White,1,Packed,BlueDart,Available,None
+ORD009,Riya Kapoor,2026-10-09 10:50,Priority,2026-11-06 09:30,SKU109,Bluetooth Speaker,Black,2,Waiting for Stock,Delhivery,Unavailable,Stock unavailable
+ORD010,Vivek Shah,2026-10-09 11:05,Normal,2026-10-15 18:00,SKU110,Phone Stand,Adjustable,1,Picking,Ekart,Available,None
+ORD011,Ishita More,2026-10-09 11:20,Normal,2026-10-24 10:00,SKU101,Wireless Mouse,White,1,Packed,Delhivery,Available,None
+ORD012,Rahul Jain,2026-10-09 11:40,Priority,2026-10-13 16:30,SKU102,Mechanical Keyboard,Red,1,Staged,BlueDart,Available,None
+ORD013,Meera Iyer,2026-10-09 12:00,Normal,2026-11-11 16:00,SKU103,Laptop Stand,Black,1,Picking,Delhivery,Available,None
+ORD014,Omkar Patil,2026-10-09 12:20,Priority,2026-10-20 17:30,SKU104,USB-C Hub,5-in-1,1,Packed,Ekart,Available,None
+ORD015,Sakshi Rao,2026-10-09 12:45,Normal,2026-10-28 12:00,SKU105,Wireless Headphones,White,1,Staged,BlueDart,Available,Courier pickup delayed

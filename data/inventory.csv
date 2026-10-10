@@ -1,0 +1,11 @@
+SKU,Product,Main Warehouse,Secondary Warehouse,Reorder Level
+SKU101,Wireless Mouse,5,2,10
+SKU102,Mechanical Keyboard,3,2,8
+SKU103,Laptop Stand,12,8,6
+SKU104,USB-C Hub,2,3,8
+SKU105,Wireless Headphones,0,2,5
+SKU106,Webcam,14,4,6
+SKU107,Portable SSD,2,1,5
+SKU108,Desk Lamp,20,3,8
+SKU109,Bluetooth Speaker,0,0,5
+SKU110,Phone Stand,4,2,8
